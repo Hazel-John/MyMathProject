@@ -8,6 +8,7 @@ private double side3;
 
 public void surfaceArea()
 	{
+	//Adding comments & changes to file
 	double area=0;
 	double s= (side1+side2+side3)/2;
 	area= s*(s-side1)*(s-side2)*(s-side3);
